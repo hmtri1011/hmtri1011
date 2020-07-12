@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hiiiii 👋
+I'm a software engineer :technologist:.
+<br><br>
+:seedling: :herb: Learning everyday is the way that I improve myself :sun_with_face: :blossom: :deciduous_tree:
+<br><br>
+React me on [Linkedin](https://www.linkedin.com/in/hmtri1011) :star: :star2:
+
+**Welcome to my world :star_struck: :kissing_heart:**
+
 
 <!--
 **hmtri1011/hmtri1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
