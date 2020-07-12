@@ -3,8 +3,6 @@ I'm a software engineer :technologist:.
 <br><br>
 :seedling: :herb: Learning everyday is the way that I improve myself :sun_with_face: :blossom: :deciduous_tree:
 <br><br>
-:soccer: :tennis: :basketball: :video_game: :notes: :microphone:
-<br><br>
 React me on [Linkedin](https://www.linkedin.com/in/hmtri1011) :star: :star2:
 <br><br>
 
